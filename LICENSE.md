@@ -1,4 +1,4 @@
-# 
+# Official BugHunter downloader. Download and install with no-dependencies and secure-download — fast, secure, and easy to use.
 
 
 
